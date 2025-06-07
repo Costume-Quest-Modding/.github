@@ -1,1 +1,1 @@
-# .github
+# Costume Quest Modding
